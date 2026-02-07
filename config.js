@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "Kachow! 🥰"                           // Shows when they go past 100%
+        extreme: "❤️♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️..... (Infinite times more than Conrad and Belly?)  ",  // Shows when they go past 5000%
+        high: "❤️♾️ (Same level as Conrad and Belly!)",              // Shows when they go past 1000%
+        normal: "Kachow! My 🐝 come here! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest guy in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "Now come get your gift, a big warm hug and a huge kiss! I love you Sudu baby!",
+        emojis: "🎁💖🤗💝🐝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dp9cdxrhk/video/upload/v1770440424/Stardust_cddtoq.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
