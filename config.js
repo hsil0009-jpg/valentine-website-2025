@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "❤️♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️..... (Infinite times more than Conrad and Belly?)  ",  // Shows when they go past 5000%
+        extreme: "❤️♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️^♾️..... (Infinite times more than Conrad and Belly!!!)  ",  // Shows when they go past 5000%
         high: "❤️♾️ (Same level as Conrad and Belly!)",              // Shows when they go past 1000%
         normal: "Kachow! My 🐝 come here! 🥰"                           // Shows when they go past 100%
     },
